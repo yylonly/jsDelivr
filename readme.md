@@ -26,4 +26,8 @@ browserify -o js-lib/iconv.js index.js
 
 ## find the final url, install it on Appsmith
 
-> [jsDelivr/js-lib/iconv.js at main · yylonly/jsDelivr](https://github.com/yylonly/jsDelivr/blob/main/js-lib/iconv.js)
+Packages url: https://cdn.jsdelivr.net/gh/yylonly/jsDelivr/
+
+final iconv package url
+
+[cdn.jsdelivr.net/gh/yylonly/jsDelivr@master/js-lib/iconv.js](https://cdn.jsdelivr.net/gh/yylonly/jsDelivr@master/js-lib/iconv.js)
