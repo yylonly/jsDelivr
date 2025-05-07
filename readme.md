@@ -19,3 +19,11 @@ window.iconv=require('iconv-lite');
 ```
 browserify -o js-lib/iconv.js index.js
 ```
+
+## push to github and change url to jsDriver
+
+[Migrate from GitHub to jsDelivr](https://www.jsdelivr.com/github)
+
+## find the final url, install it on Appsmith
+
+> [jsDelivr/js-lib/iconv.js at main · yylonly/jsDelivr](https://github.com/yylonly/jsDelivr/blob/main/js-lib/iconv.js)
