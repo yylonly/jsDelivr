@@ -17,7 +17,7 @@ window.iconv=require('iconv-lite');
 ## package js with dependency to one target file
 
 ```
-browserify -o js-lib/iconv.js index.js
+browserify -o js-lib/iconv.js iconv.js
 ```
 
 ## push to github and change url to jsDriver
